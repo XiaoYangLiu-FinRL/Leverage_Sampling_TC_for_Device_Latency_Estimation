@@ -1,5 +1,6 @@
 # Leverage_Sampling_TC_for_Device_Latency_Estimation
 Tensor Completion with Leverage Sampling for Personal Device Network Latency Estimation
-LeverageSampling.m  ÊÇ¸Ü¸Ë²ÉÑùËã·¨£»
-CompetitiveAlgorithms.m  ÊÇ¶Ô±ÈËã·¨£¨²»°üÀ¨IS-p£©;
-Main_IS_p.m ÊÇIS-pËã·¨
+\\
+LeverageSampling.m  æ˜¯æ æ†é‡‡æ ·ç®—æ³•ï¼›
+CompetitiveAlgorithms.m  æ˜¯å¯¹æ¯”ç®—æ³•ï¼ˆä¸åŒ…æ‹¬IS-pï¼‰;
+Main_IS_p.m æ˜¯IS-pç®—æ³•
